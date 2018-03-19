@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Sales Task Table" max_length="40" name="x_snc_sales_tasks_sales_task_table" sizeclass="76" type="collection">
+        <element choice="1" label="Account" max_length="40" name="account" type="choice">
+            <choice>
+                <element label="Allianz" sequence="0" value="Allianz"/>
+                <element label="AMP" sequence="1" value="AMP"/>
+                <element label="CBA" sequence="2" value="CBA"/>
+                <element label="IAG" sequence="3" value="IAG"/>
+                <element label="Macquarie" sequence="4" value="Macquarie"/>
+                <element label="Westpac" sequence="5" value="Westpac"/>
+            </choice>
+        </element>
+    </element>
+</database>

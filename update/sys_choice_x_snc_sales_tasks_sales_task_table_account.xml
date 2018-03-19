@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="account" table="x_snc_sales_tasks_sales_task_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allianz</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:34:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>379ab2a4db712200cabaf47dbf961911</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>Allianz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AMP</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:33:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf8ab2a4db712200cabaf47dbf96190f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>AMP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CBA</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>965a72a4db712200cabaf47dbf961930</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>CBA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IAG</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:33:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>488ab2a4db712200cabaf47dbf96190d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>IAG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Macquarie</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:34:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44baf2a4db712200cabaf47dbf961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>Macquarie</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Westpac</label>
+            <language>en</language>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c7ab2a4db712200cabaf47dbf96190a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:40:11</sys_updated_on>
+            <value>Westpac</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>account</element>
+            <name>x_snc_sales_tasks_sales_task_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-08 12:32:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>347a72a4db712200cabaf47dbf961945</sys_id>
+            <sys_mod_count>12</sys_mod_count>
+            <sys_name>account</sys_name>
+            <sys_package display_value="Sales Task" source="x_snc_sales_tasks">ab99fa24db712200cabaf47dbf96192e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sales Task">ab99fa24db712200cabaf47dbf96192e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_sales_tasks_sales_task_table_account</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-08 12:34:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
